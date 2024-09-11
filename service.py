@@ -34,4 +34,4 @@ def img_to_str():
 
 
 if __name__ == '__main__':
-    app.run('127.0.0.1', 8088)
+    app.run('127.0.0.1', 8090)
