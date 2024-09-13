@@ -1,6 +1,19 @@
 {
-  "users": [
-    {"username": "admin", "password": "1554613", "leftdays": 9999999},
-    {"username": "user1", "password": "123", "leftdays": 0}
-  ]
+    "users": [
+        {
+            "username": "admin",
+            "password": "1554613",
+            "leftdays": 9999990
+        },
+        {
+            "username": "user1",
+            "password": "123",
+            "leftdays": 0
+        },
+        {
+            "username": "user2",
+            "password": "1231111",
+            "leftdays": 0
+        }
+    ]
 }

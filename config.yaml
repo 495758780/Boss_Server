@@ -1,9 +1,0 @@
-conn:
-  ip: '192.168.1.1'
-  port: 8088
-logging_info:
-  format: '%(asctime)s %(filename)s %(levelname)s %(message)s'
-  datefmt: '%a %d %b %Y %H:%M:%S'
-  filemode: 'w'
-  filename: 'log.log'
-
